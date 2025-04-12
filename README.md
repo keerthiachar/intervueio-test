@@ -38,10 +38,10 @@ This Java project automates the login flow and basic navigation for [Intervue.io
    ```java
    System.setProperty("webdriver.chrome.driver", "./softwaress/chromedriver.exe");
 
-5. Add Selenium Jar Files to Classpath
+5. **Add Selenium Jar Files to Classpath**
    You can use Selenium Jars, or use Maven.
 
-6. Run the Program
+6. **Run the Program**
    Compile and run IntervueLoginTest.java from your IDE or terminal.
 
 
